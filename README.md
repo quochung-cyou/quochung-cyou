@@ -1,4 +1,4 @@
-👋 Hi, 
+👋 Hi there, 
 
 I’m Quoc Hung. I create Android app and website
 
