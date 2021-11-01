@@ -1,7 +1,7 @@
 👋 Hi there, 
 
 I’m Quoc Hung!
-![](https://komarev.com/ghpvc/?username=quochungbn&color=green)
+
 - 🌱 I’m currently learning Java (Android) and Python
 - 🔭 Studying Computer Science at PTIT
 
