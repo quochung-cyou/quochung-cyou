@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm Hung|https://quochung.cyou)" title="👋 Hi there! I'm Hung)|https://quochung.cyou)"/>](https://quochung.cyou/)
+
 
 
 
@@ -11,6 +11,8 @@ I’m Quoc Hung!
 - 🔗 My website: [https://quochung.cyou/](https://quochung.cyou/)
 
  <img align="right" alt="GIF" src="https://github.com/quochungbn/quochungbn/blob/main/code.gif?raw=true" width="500" height="320" />
+ 
+ 
 ---
 
 📈 My github stats
@@ -18,7 +20,7 @@ I’m Quoc Hung!
 
 
 
-<a href=https://github.com/quochungbn/SleepTracker" target="_blank">
+<a href="https://github.com/quochungbn/SleepTracker" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quochungbn&repo=SleepTracker&theme=dracula" />
 </a>
 <a href="https://github.com/quochungbn/Covid-19" target="_blank">
