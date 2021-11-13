@@ -2,7 +2,7 @@
 
 
 ---
- 
+<img alt="right" src="https://github.com/quochungbn/quochungbn/blob/main/code.gif?raw=true" width="500" height="320" />
 I’m Quoc Hung!
 
 - 🌱 I’m currently learning Java (Android) and Python
@@ -10,7 +10,7 @@ I’m Quoc Hung!
 - 📫 How to reach me: [nguyenquochung.workvn@gmail.com](mailto:nguyenquochung.workvn@gmail.com);
 - 🔗 My website: [https://quochung.cyou/](https://quochung.cyou/)
 
- <img alt="GIF" src="https://github.com/quochungbn/quochungbn/blob/main/code.gif?raw=true" width="500" height="320" />
+
  
  
 ---
