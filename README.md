@@ -22,7 +22,7 @@ I’m Quoc Hung!
 
 ---
 
-<a width="500" height="320"href="https://github.com/quochungbn/SleepTracker" target="_blank">
+<a href="https://github.com/quochungbn/SleepTracker" target="_blank">
   <img width="500" height="320" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quochungbn&repo=SleepTracker&theme=dracula" />
 </a>
 <a href="https://github.com/quochungbn/Covid-19" target="_blank">
