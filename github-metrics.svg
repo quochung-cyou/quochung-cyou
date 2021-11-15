@@ -290,8 +290,8 @@
   <b>    1</b> repository starred
   <b>   13</b> repositories watched
 </div>
-<div class="stdin"><span class="ps1-path">quochungbn@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 17 repositories - 98.7 MB
--r--  <b>    2</b>  stargazers
+<div class="stdin"><span class="ps1-path">quochungbn@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 17 repositories - 110 MB
+-r--  <b>    3</b>  stargazers
 -r--  <b>    0</b>  forks
 -r--  <b>   12</b>  watchers
 dr-x  <b>    0</b>  packages
