@@ -303,7 +303,7 @@
 <b>Tracked activity</b>
   <b>    5</b> users followed
   <b>    0</b> repositories sponsored
-  <b>    1</b> repository starred
+  <b>    2</b> repositories starred
   <b>   13</b> repositories watched
 </div>
 <div class="stdin"><span class="ps1-path">quochungbn@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 17 repositories - 110 MB
@@ -312,7 +312,7 @@
 -r--  <b>   12</b>  watchers
 dr-x  <b>    0</b>  packages
 
-<span class="diff">@@ -465 +17.5k @@</span>
+<span class="diff">@@ -501 +17.6k @@</span>
 </div>
 <div class="stdin"><span class="ps1-path">quochungbn@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVA        </b> [####################] 96.64%
 <b>PYTHON      </b> [#                   ] 2.53 %
