@@ -6,7 +6,7 @@
 I’m Quoc Hung!
 
 - 🌱 I’m currently learning Java (Android) and Python
-- 🔭 Studying Computer Science at PTIT
+- 🔭 Studying Software Development at PTIT
 - 📫 How to reach me: [nguyenquochung.workvn@gmail.com](mailto:nguyenquochung.workvn@gmail.com);
 - 🔗 My website: [https://quochung.cyou/](https://quochung.cyou/)
 
