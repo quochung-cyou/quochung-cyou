@@ -1,8 +1,5 @@
 
-
-
 ---
-<img alt="right" src="https://github.com/quochungbn/quochungbn/blob/main/code.gif?raw=true" width="500" height="320" />
 I’m Quoc Hung!
 
 - 🌱 I’m currently learning Java (Android) and Python
@@ -10,15 +7,10 @@ I’m Quoc Hung!
 - 📫 How to reach me: [nguyenquochung.workvn@gmail.com](mailto:nguyenquochung.workvn@gmail.com);
 - 🔗 My website: [https://quochung.cyou/](https://quochung.cyou/)
 
-
- 
- 
 ---
 
-📈 My Github Stats
+📈 Project
 
-<img align="center" src="https://github.com/quochungbn/quochungbn/blob/main/github-metrics.svg" alt="quochungbn">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=quochungbn&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="quochungbn">
 <a href="https://github.com/quochungbn/PlantShop" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quochungbn&repo=PlantShop&theme=dracula" />
 </a>
@@ -34,20 +26,5 @@ I’m Quoc Hung!
 <a href="https://github.com/quochungbn/PassGenerator" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quochungbn&repo=PassGenerator&theme=dracula" />
 </a>                                                                                                                        
-                                                                                                                          
-                                                                                                                          
-
-
----
-<h1 align="center"> 🔧 Skills & Tools: </h1>
-<p align="center">
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
-</p>
-
-
 
 
