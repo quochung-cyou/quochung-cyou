@@ -312,7 +312,7 @@
 -r--  <b>   15</b>  watchers
 dr-x  <b>    0</b>  packages
 
-<span class="diff">@@ -578 +20.3k @@</span>
+<span class="diff">@@ -518 +20.2k @@</span>
 </div>
 <div class="stdin"><span class="ps1-path">quochungbn@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVA        </b> [###############     ] 72.37%
 <b>C           </b> [#####               ] 24.78%
