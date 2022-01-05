@@ -1,0 +1,15 @@
+name: RSS Feed
+
+on:
+  schedule:
+    # Once a day at 8 AM
+    - cron: 0 * 10 * *
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://quochung.cyou/blog/feed/
+          readme-section: feed
