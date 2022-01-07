@@ -3,7 +3,7 @@ name: RSS Feed
 on:
   schedule:
     # Once a day at 8 AM
-    - cron: 0 * 10 * *
+    - cron: '10/5 * * * *'
 
 jobs:
   update:
