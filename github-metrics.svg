@@ -45,9 +45,9 @@
   <b>    3</b> issue comments
 
 <b>Tracked activity</b>
-  <b>   12</b> users followed
+  <b>   13</b> users followed
   <b>    0</b> repositories sponsored
-  <b>    9</b> repositories starred
+  <b>   10</b> repositories starred
   <b>   18</b> repositories watched
 </div>
 <div class="stdin"><span class="ps1-path">quochungbn@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 22 repositories - 121 MB
@@ -56,7 +56,7 @@
 -r--  <b>   17</b>  watchers
 dr-x  <b>    0</b>  packages
 
-<span class="diff">@@ -986 +24.8k @@</span>
+<span class="diff">@@ -923 +24.6k @@</span>
 </div>
 <div class="stdin"><span class="ps1-path">quochungbn@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVA        </b> [##############      ] 69.14%
 <b>C           </b> [#####               ] 23.68%
