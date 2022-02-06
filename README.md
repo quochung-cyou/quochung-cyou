@@ -9,7 +9,7 @@ I’m Quoc Hung!
 
 ---
 
-📈 Project
+📈 Some Small Project
 
 <a href="https://github.com/quochungbn/PlantShop" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quochungbn&repo=PlantShop&theme=dracula" />
@@ -33,8 +33,4 @@ I’m Quoc Hung!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quochungbn&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-### Post
 
-<!--START_SECTION:feed-->
-...
-<!--END_SECTION:feed-->
