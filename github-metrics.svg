@@ -50,13 +50,13 @@
   <b>   14</b> repositories starred
   <b>   18</b> repositories watched
 </div>
-<div class="stdin"><span class="ps1-path">quochungbn@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 22 repositories - 124 MB
+<div class="stdin"><span class="ps1-path">quochungbn@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 22 repositories - 125 MB
 -r--  <b>    4</b>  stargazers
 -r--  <b>    0</b>  forks
 -r--  <b>   17</b>  watchers
 dr-x  <b>    0</b>  packages
 
-<span class="diff">@@ -1.08k +38.4k @@</span>
+<span class="diff">@@ -1.15k +38.5k @@</span>
 </div>
 <div class="stdin"><span class="ps1-path">quochungbn@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>C++         </b> [##############      ] 65.54%
 <b>JAVA        </b> [#####               ] 23.83%
