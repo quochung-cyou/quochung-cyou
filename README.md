@@ -22,9 +22,6 @@ I’m Quoc Hung!
 <a href="https://github.com/quochung-cyou/Covid-19" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quochung-cyou&repo=Covid-19&theme=dracula" />
 </a>
-<a href="https://github.com/quochung-cyou/Sudungthuoc" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quochung-cyou&repo=Sudungthuoc&theme=dracula" />
-</a>
 <a href="https://github.com/quochung-cyou/PassGenerator" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quochung-cyou&repo=PassGenerator&theme=dracula" />
 </a>                                                                                                                        
