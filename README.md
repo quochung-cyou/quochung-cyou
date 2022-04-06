@@ -3,7 +3,7 @@
 I’m Quoc Hung!
 
 - 🌱 I’m currently learning C++ and Java for CP
-- 🔭 Studying Software Development at PTIT
+- 🔭 Studying IT at PTIT
 - 📫 How to reach me: [nguyenquochung.workvn@gmail.com](mailto:nguyenquochung.workvn@gmail.com);
 - 🔗 My website: [https://quochung.cyou/](https://quochung.cyou/)
 - 🖥️ CF: [https://codeforces.com/profile/quochung-cyou](https://codeforces.com/profile/quochung-cyou)
