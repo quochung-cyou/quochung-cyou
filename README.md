@@ -34,7 +34,6 @@ Hi there, I’m Hung!
 ![](https://github-readme-streak-stats.herokuapp.com/?user=quochung-cyou&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=quochung-cyou&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Metrics](https://metrics.lecoq.io/quochung-cyou?template=terminal&stars=1&languages=1&isocalendar=1&followup=1&code=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&followup.sections=repositories&followup.indepth=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&config.timezone=Asia%2FSaigon)
 
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
