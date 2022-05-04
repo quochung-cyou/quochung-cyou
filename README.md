@@ -10,7 +10,7 @@ Hi there, I’m Hung!
 - 🔭 Studying IT at PTIT
 - 📫 How to reach me: nguyenquochung.workvn@gmail.com;
 - 🔗 My website: https://quochung.cyou/
-- 🖥️ CF: https://codeforces.com/profile/quochung-cyou
+- 🖥️ CF: https://codeforces.com/profile/quochung.cyou
 
 ## 📈 Some Small Project
 
