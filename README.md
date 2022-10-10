@@ -10,7 +10,7 @@ Hi there, I’m Hung!
 - 🌱 I’m currently learning C++ and Java 
 - 🔭 Studying IT at PTIT
 - 📫 How to reach me: nguyenquochung.workvn@gmail.com
-- 🔗 My website: https://quochung.cyou/
-- 🖥️ CF: [https://codeforces.com/profile/quochung.cyou](https://codeforces.com/profile/quochung-cyou)
-
+- 🔗 My website: [Website](https://quochung.cyou)
+- 🖥️ CF: [Codeforce](https://codeforces.com/profile/quochung-cyou)
+- 🖥️ ICPC ID: [ICPC ID](https://icpc.global/ICPCID/XP8AC1MI6YF3)
 ---
