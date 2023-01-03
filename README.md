@@ -17,6 +17,6 @@ Hi there, I’m Hung!
 - 🖥️ ICPC ID: https://icpc.global/ICPCID/XP8AC1MI6YF3
 ---
 
-# Blog posts
+## Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
