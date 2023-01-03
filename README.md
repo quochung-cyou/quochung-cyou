@@ -16,3 +16,7 @@ Hi there, I’m Hung!
 - 🔗 My website: https://quochung.cyou
 - 🖥️ ICPC ID: https://icpc.global/ICPCID/XP8AC1MI6YF3
 ---
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
