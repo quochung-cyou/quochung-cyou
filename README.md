@@ -19,4 +19,9 @@ Hi there, I’m Hung!
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Recap sự kiện BigGame 2022 – CLB Lập Trình PTIT](https://quochung.cyou/recap-su-kien-biggame-2022-clb-lap-trinh-ptit/)
+- [[Game C++] Talking Simulator](https://quochung.cyou/game-c-talking-simulator%ef%bf%bc/)
+- [Tìm hiểu về Segment Tree](https://quochung.cyou/tim-hieu-ve-segment-tree/)
+- [Chung kết ACM/ICPC PTIT 2022](https://quochung.cyou/chung-ket-acm-icpc-ptit-2022/)
+- [Đánh giá về ngành Công nghệ thông tin CLC của PTIT](https://quochung.cyou/thong-tin-ve-nganh-cong-nghe-thong-tin-clc-cua-ptit/)
 <!-- BLOG-POST-LIST:END -->
