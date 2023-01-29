@@ -5,11 +5,9 @@ I'm Hung! I'm a tech enthusiast who loves to learn about new things. Connect wit
 This is the place where I opensource stuff and break things :rofl: 
 
 ## Info
-- 🌱 &nbsp;I’m currently learning C++ and Java 
-- 🔭 &nbsp;Studying IT at PTIT
 - 📫 &nbsp;How to reach me: nguyenquochung.workvn@gmail.com
-- 🔗 &nbsp;My personal blog: https://quochung.cyou
-- 🖥️ &nbsp;ICPC ID: https://icpc.global/ICPCID/XP8AC1MI6YF3
+- 🔗 &nbsp;Check out my random blog: https://quochung.cyou
+- 🖥️ &nbsp;Competitive Programming - ICPC: https://icpc.global/ICPCID/XP8AC1MI6YF3
 ---
 
 ## 🔗 &nbsp;**Connect with me**
@@ -30,5 +28,6 @@ This is the place where I opensource stuff and break things :rofl:
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Domains:
-- Internet of Things
+- Competitive Programming
 - Mobile Development
+- Game Development
