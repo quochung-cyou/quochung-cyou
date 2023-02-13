@@ -24,11 +24,11 @@ I am looking forward to using my skills to help create innovative projects with 
 
 ## ⏩ &nbsp;On my Blog
 <!-- BLOG-POST-LIST:START -->
+- [Collection và Collections trong Java](https://quochung.cyou/collection-va-collections-trong-java/)
+- [Tìm hiểu về Java cơ bản, Regex và 4 tính chất OOP trong Java](https://quochung.cyou/tim-hieu-ve-java-co-ban-regex-va-4-tinh-chat-oop-trong-java/)
 - [Recap sự kiện BigGame 2022 – CLB Lập Trình PTIT](https://quochung.cyou/recap-su-kien-biggame-2022-clb-lap-trinh-ptit/)
 - [[Game C++] Talking Simulator](https://quochung.cyou/game-c-talking-simulator%ef%bf%bc/)
 - [Tìm hiểu về Segment Tree](https://quochung.cyou/tim-hieu-ve-segment-tree/)
-- [Chung kết ACM/ICPC PTIT 2022](https://quochung.cyou/chung-ket-acm-icpc-ptit-2022/)
-- [Đánh giá về ngành Công nghệ thông tin CLC của PTIT](https://quochung.cyou/thong-tin-ve-nganh-cong-nghe-thong-tin-clc-cua-ptit/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Domains:
