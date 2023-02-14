@@ -24,11 +24,11 @@ I am looking forward to using my skills to help create innovative projects with 
 
 ## ⏩ &nbsp;On my Blog
 <!-- BLOG-POST-LIST:START -->
+- [Tính đa hình – Polymorphism trong C++ OOP](https://quochung.cyou/tinh-da-hinh-polymorphism-trong-c-oop/)
+- [Diagram UML và C++ OOP](https://quochung.cyou/diagram-uml-va-c-oop/)
+- [Tìm hiểu về lập trình hướng đối tượng &lpar;OOP&rpar; trong C++](https://quochung.cyou/tim-hieu-ve-lap-trinh-huong-doi-tuong-oop-trong-c/)
+- [Tính kế thừa – Inheritance [C++ OOP]](https://quochung.cyou/tinh-ke-thua-inheritance-c-oop/)
 - [Collection và Collections trong Java](https://quochung.cyou/collection-va-collections-trong-java/)
-- [Tìm hiểu về Java cơ bản, Regex và 4 tính chất OOP trong Java](https://quochung.cyou/tim-hieu-ve-java-co-ban-regex-va-4-tinh-chat-oop-trong-java/)
-- [Recap sự kiện BigGame 2022 – CLB Lập Trình PTIT](https://quochung.cyou/recap-su-kien-biggame-2022-clb-lap-trinh-ptit/)
-- [[Game C++] Talking Simulator](https://quochung.cyou/game-c-talking-simulator%ef%bf%bc/)
-- [Tìm hiểu về Segment Tree](https://quochung.cyou/tim-hieu-ve-segment-tree/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Domains:
