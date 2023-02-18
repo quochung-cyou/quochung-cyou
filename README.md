@@ -24,11 +24,11 @@ I am looking forward to using my skills to help create innovative projects with 
 
 ## ⏩ &nbsp;On my Blog
 <!-- BLOG-POST-LIST:START -->
+- [Cách up ảnh lên Facebook giữ được chất lượng tốt nhất](https://quochung.cyou/cach-up-anh-len-facebook-giu-duoc-chat-luong-tot-nhat/)
 - [Tính đa hình – Polymorphism trong C++ OOP](https://quochung.cyou/tinh-da-hinh-polymorphism-trong-c-oop/)
 - [Diagram UML và C++ OOP](https://quochung.cyou/diagram-uml-va-c-oop/)
 - [Tìm hiểu về lập trình hướng đối tượng &lpar;OOP&rpar; trong C++](https://quochung.cyou/tim-hieu-ve-lap-trinh-huong-doi-tuong-oop-trong-c/)
 - [Tính kế thừa – Inheritance [C++ OOP]](https://quochung.cyou/tinh-ke-thua-inheritance-c-oop/)
-- [Collection và Collections trong Java](https://quochung.cyou/collection-va-collections-trong-java/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Domains:
