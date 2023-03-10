@@ -24,7 +24,7 @@ I am looking forward to using my skills to help create innovative projects with 
 
 ## ⏩ &nbsp;On my Blog
 <!-- BLOG-POST-LIST:START -->
-- [Suzume no Tojimari có After Credit không?](https://quochung.cyou/suzume-no-tojimari-co-after-credit-khong/)
+- [Cảm quan và review chung về Suzume no Tojimari – Khoá chặt cửa nào Suzume!](https://quochung.cyou/suzume-no-tojimari-co-after-credit-khong/)
 - [Tìm hiểu về Java Swing](https://quochung.cyou/tim-hieu-ve-java-swing/)
 - [Package và Exception trong Java](https://quochung.cyou/package-va-exception-trong-java/)
 - [Cách up ảnh lên Facebook giữ được chất lượng tốt nhất](https://quochung.cyou/cach-up-anh-len-facebook-giu-duoc-chat-luong-tot-nhat/)
