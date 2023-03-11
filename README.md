@@ -24,11 +24,11 @@ I am looking forward to using my skills to help create innovative projects with 
 
 ## ⏩ &nbsp;On my Blog
 <!-- BLOG-POST-LIST:START -->
+- [Khắc phục Arch Manjaro KDE bị giật lag, đơ màn hình và tác vụ](https://quochung.cyou/khac-phuc-arch-manjaro-kde-bi-giat-lag-do-man-hinh-va-tac-vu/)
 - [Cảm quan và review chung về Suzume no Tojimari – Khoá chặt cửa nào Suzume!](https://quochung.cyou/suzume-no-tojimari-co-after-credit-khong/)
 - [Tìm hiểu về Java Swing](https://quochung.cyou/tim-hieu-ve-java-swing/)
 - [Package và Exception trong Java](https://quochung.cyou/package-va-exception-trong-java/)
 - [Cách up ảnh lên Facebook giữ được chất lượng tốt nhất](https://quochung.cyou/cach-up-anh-len-facebook-giu-duoc-chat-luong-tot-nhat/)
-- [Tính đa hình – Polymorphism trong C++ OOP](https://quochung.cyou/tinh-da-hinh-polymorphism-trong-c-oop/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Domains:
