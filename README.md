@@ -24,11 +24,11 @@ I am looking forward to using my skills to help create innovative projects with 
 
 ## ⏩ &nbsp;On my Blog
 <!-- BLOG-POST-LIST:START -->
+- [[Android] P-Connect Social](https://quochung.cyou/android-p-connect-social/)
 - [Khắc phục lỗi Encryption unsuccessful của Android Emulator trong Android Studio](https://quochung.cyou/khac-phuc-loi-encryption-unsuccessful-cua-android-emulator-trong-android-studio/)
 - [Khắc phục Arch Manjaro KDE bị giật lag, đơ màn hình và tác vụ](https://quochung.cyou/khac-phuc-arch-manjaro-kde-bi-giat-lag-do-man-hinh-va-tac-vu/)
 - [Cảm quan và review chung về Suzume no Tojimari – Khoá chặt cửa nào Suzume!](https://quochung.cyou/suzume-no-tojimari-co-after-credit-khong/)
 - [Tìm hiểu về Java Swing](https://quochung.cyou/tim-hieu-ve-java-swing/)
-- [Package và Exception trong Java](https://quochung.cyou/package-va-exception-trong-java/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Domains:
