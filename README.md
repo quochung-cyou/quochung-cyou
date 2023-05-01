@@ -31,7 +31,4 @@ I am looking forward to using my skills to help create innovative projects with 
 - [Tìm hiểu về Java Swing](https://quochung.cyou/tim-hieu-ve-java-swing/)
 <!-- BLOG-POST-LIST:END -->
 
-## ⚡ Domains:
-- Competitive Programming
-- Mobile Development
-- Game Development
+
