@@ -24,11 +24,11 @@ I am looking forward to using my skills to help create innovative projects with 
 
 ## ⏩ &nbsp;On my Blog
 <!-- BLOG-POST-LIST:START -->
+- [[Web-Buổi 3] Tìm hiểu về Responsive](https://quochung.cyou/web-buoi-3-tim-hieu-ve-responsive/)
 - [[Web-Buổi 2] Tìm hiểu về CSS](https://quochung.cyou/web-buoi-2-tim-hieu-ve-css/)
 - [[Web-Buổi 1] Tìm hiểu về cách hoạt động của Web, HTML cơ bản](https://quochung.cyou/tim-hieu-ve-cach-hoat-dong-cua-web-html-co-ban/)
 - [Review VPS tại Hosthatch.com, VPS chất lượng tốt giá rẻ gần Việt Nam](https://quochung.cyou/review-vps-tai-hosthatch-com-vps-chat-luong-tot-gia-re-gan-viet-nam/)
 - [Recap JunctionX Hanoi 2023 – Lần Hackathon đầu tiên của mình](https://quochung.cyou/recap-junctionx-hanoi-2023-lan-hackathon-dau-tien-cua-minh/)
-- [[Android] P-Connect Social](https://quochung.cyou/android-p-connect-social/)
 <!-- BLOG-POST-LIST:END -->
 
 
