@@ -24,11 +24,11 @@ I am looking forward to using my skills to help create innovative projects with 
 
 ## ⏩ &nbsp;On my Blog
 <!-- BLOG-POST-LIST:START -->
+- [Nghe nhạc Spotify không quảng cáo miễn phí trên Window](https://quochung.cyou/nghe-nhac-spotify-khong-quang-cao-mien-phi-tren-window/)
 - [Cài đặt WSL2 Ubuntu trên Window ít lỗi không cần Microsoft Store](https://quochung.cyou/cai-dat-wsl2-ubuntu-tren-window-it-loi-khong-can-microsoft-store/)
 - [QLDT PTIT Enhancer – Tiện ích xếp TKB, bổ sung chức năng cho QLDT PTIT 2023](https://quochung.cyou/qldt-ptit-tool-xep-tkb-cho-qldt-ptit-2023/)
 - [Trigger một form input để giả lập như người dùng gõ bằng JavaScript thuần](https://quochung.cyou/trigger-mot-form-input-de-gia-lap-nhu-nguoi-dung-go-bang-javascript-thuan/)
 - [[Web-Buổi 3] Tìm hiểu về Responsive](https://quochung.cyou/web-buoi-3-tim-hieu-ve-responsive/)
-- [[Web-Buổi 2] Tìm hiểu về CSS](https://quochung.cyou/web-buoi-2-tim-hieu-ve-css/)
 <!-- BLOG-POST-LIST:END -->
 
 
