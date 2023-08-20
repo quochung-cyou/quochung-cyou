@@ -3,7 +3,7 @@
 ### Hi there <a href="https://www.quochung.cyou/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 This is the place where I opensource stuff and break things :rofl: 
 
-Back End Developer passionate about exploring and implementing new technologies to streamline business processes. Skill set includes C++, Java, Competitive Programming and Database management systems. Holds a Bachelor of Engineering with a specialization in Information Technology from Posts and Telecommunications Institute of Technology.
+Back End Developer passionate about exploring and implementing new technologies to streamline business processes. Skill set includes C++, Java, Linux, Software Development and SQL. Holds a Bachelor of Engineering with a specialization in Information Technology from Posts and Telecommunications Institute of Technology.
 
 I am always seeking opportunities to learn and improve my skills and I have a deep love for learning new technologies and solving complex problems. I am confident that my skills and passion for the industry will allow me to make a positive impact in any team.
 
