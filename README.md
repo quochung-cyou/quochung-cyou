@@ -24,11 +24,11 @@ I am always seeking opportunities to learn and improve my skills and I have a de
 
 ## ⏩ &nbsp;On my Blog
 <!-- BLOG-POST-LIST:START -->
+- [[Web] CyouTodo](https://quochung.cyou/web-cyoutodo/)
 - [Tìm hiểu SOLID – 5 nguyên tắc thiết kế hướng đối tượng bằng Java](https://quochung.cyou/tim-hieu-solid-5-nguyen-tac-thiet-ke-huong-doi-tuong-bang-java/)
 - [Tìm hiểu về Serverless dễ hiểu bằng trà sữa](https://quochung.cyou/tim-hieu-ve-serverless-de-hieu-bang-tra-sua/)
 - [Một số nguồn tài nguyên cho lập trình Game](https://quochung.cyou/mot-so-nguon-tai-nguyen-cho-lap-trinh-game/)
 - [Nghe nhạc Spotify không quảng cáo miễn phí trên Window](https://quochung.cyou/nghe-nhac-spotify-khong-quang-cao-mien-phi-tren-window/)
-- [Cài đặt WSL2 Ubuntu trên Window ít lỗi không cần Microsoft Store](https://quochung.cyou/cai-dat-wsl2-ubuntu-tren-window-it-loi-khong-can-microsoft-store/)
 <!-- BLOG-POST-LIST:END -->
 
 
