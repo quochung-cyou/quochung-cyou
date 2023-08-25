@@ -6,12 +6,12 @@ on:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update blog
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Update rss
-        uses: gautamkrishnar/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@1.8.4
         with:
-          feed_list: "http://quochung.cyou/feed/"
+          feed_list: "https://quochung.cyou/feed/"
