@@ -24,11 +24,11 @@ I am always seeking opportunities to learn and improve my skills and I have a de
 
 ## ⏩ &nbsp;On my Blog
 <!-- BLOG-POST-LIST:START -->
+- [Vấn đề khi sử dụng số hoặc UUID cho Primary Key trong database](https://quochung.cyou/van-de-khi-su-dung-so-hoac-uuid-cho-primary-key-trong-database/)
 - [Sử dụng Keyset Pagination – Seek bằng JPA, Hibernate](https://quochung.cyou/su-dung-keyset-pagination-seek-bang-jpa-hibernate/)
 - [Dependency Inversion là gì, biến N-Layered thành DDD](https://quochung.cyou/dependency-inversion-la-gi-bien-n-layered-thanh-ddd/)
 - [Tối ưu truy vấn Pagination &lpar;phân trang&rpar; sử dụng Spring Boot &lpar;Java&rpar;](https://quochung.cyou/toi-uu-truy-van-pagination-phan-trang-su-dung-spring-boot-java/)
 - [Tại sao cần viết getter, setter cho các Class?](https://quochung.cyou/tai-sao-can-viet-getter-setter-cho-cac-class/)
-- [[Web] CyouTodo](https://quochung.cyou/web-cyoutodo/)
 <!-- BLOG-POST-LIST:END -->
 
 
