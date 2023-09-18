@@ -24,11 +24,11 @@ I am always seeking opportunities to learn and improve my skills and I have a de
 
 ## ⏩ &nbsp;On my Blog
 <!-- BLOG-POST-LIST:START -->
+- [High Cohesion &lpar;Tương đồng cao&rpar; và Loosely Coupled &lpar;Liên kết lỏng&rpar;](https://quochung.cyou/high-cohesion-tuong-dong-cao-va-loosely-coupled-lien-ket-long/)
 - [[Tìm hiểu React – Phần 1] Tại sao React ra đời](https://quochung.cyou/tim-hieu-react-phan-1-tai-sao-react-ra-doi/)
 - [[Optimistic locking] Xử lí dữ liệu bất đồng bộ trong thực tế](https://quochung.cyou/optimistic-locking-xu-li-du-lieu-bat-dong-bo-trong-thuc-te/)
 - [Vấn đề khi sử dụng số hoặc UUID cho Primary Key trong database](https://quochung.cyou/van-de-khi-su-dung-so-hoac-uuid-cho-primary-key-trong-database/)
 - [Sử dụng Keyset Pagination – Seek bằng JPA, Hibernate](https://quochung.cyou/su-dung-keyset-pagination-seek-bang-jpa-hibernate/)
-- [Dependency Inversion là gì, biến N-Layered thành DDD](https://quochung.cyou/dependency-inversion-la-gi-bien-n-layered-thanh-ddd/)
 <!-- BLOG-POST-LIST:END -->
 
 
