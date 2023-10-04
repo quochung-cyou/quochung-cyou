@@ -24,11 +24,11 @@ I am always seeking opportunities to learn and improve my skills and I have a de
 
 ## ⏩ &nbsp;On my Blog
 <!-- BLOG-POST-LIST:START -->
+- [7 plugin cho InteliJ IDEA để tăng hiệu suất làm việc của bạn](https://quochung.cyou/7-plugin-cho-intelij-idea-de-tang-hieu-suat-lam-viec-cua-ban/)
+- [Sự ra đời của Java, các thuật ngữ JVM, JDK, JRE](https://quochung.cyou/su-ra-doi-cua-java-cac-thuat-ngu-jvm-jdk-jre/)
+- [3 cách thực hiện Dependency Injection &lpar;DI&rpar; và vấn đề với @Autowired trong Spring](https://quochung.cyou/3-cach-thuc-hien-dependency-injection-di-va-van-de-voi-autowired-trong-spring/)
 - [[Phần 1] Sự phát triển của các mô hình hệ thống Backend &lpar;N-layered, DDD, Hexagon, Onion, Clean Architecture&rpar;](https://quochung.cyou/phan-1-su-phat-trien-cua-cac-mo-hinh-he-thong-backend-n-layered-ddd-hexagon-onion-clean-architecture/)
 - [Tìm hiểu Consistent hashing &lpar;Ánh xạ nhất quán&rpar; – Xử lí dữ liệu phân tán](https://quochung.cyou/tim-hieu-consistent-hashing-anh-xa-nhat-quan-xu-li-du-lieu-phan-tan/)
-- [[Pessimistic locking] Xử lí dữ liệu bất đồng bộ trong thực tế](https://quochung.cyou/pessimistic-locking-xu-li-du-lieu-bat-dong-bo-trong-thuc-te/)
-- [A.C.I.D Transactions – Kiến thức cơ bản về database lập trình viên cần nắm vững](https://quochung.cyou/a-c-i-d-transactions-kien-thuc-co-ban-ve-database-lap-trinh-vien-can-nam-vung/)
-- [Kiến trúc Stateful và Stateless là gì?](https://quochung.cyou/kien-truc-stateful-va-stateless-la-gi/)
 <!-- BLOG-POST-LIST:END -->
 
 
