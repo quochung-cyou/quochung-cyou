@@ -24,11 +24,11 @@ I am always seeking opportunities to learn and improve my skills and I have a de
 
 ## ⏩ &nbsp;On my Blog
 <!-- BLOG-POST-LIST:START -->
+- [Các cấp độ Isolation trong Database dễ hiểu](https://quochung.cyou/cac-cap-do-isolation-trong-database-de-hieu/)
 - [7 plugin cho InteliJ IDEA để tăng hiệu suất làm việc của bạn](https://quochung.cyou/7-plugin-cho-intelij-idea-de-tang-hieu-suat-lam-viec-cua-ban/)
 - [Sự ra đời của Java, các thuật ngữ JVM, JDK, JRE](https://quochung.cyou/su-ra-doi-cua-java-cac-thuat-ngu-jvm-jdk-jre/)
 - [3 cách thực hiện Dependency Injection &lpar;DI&rpar; và vấn đề với @Autowired trong Spring](https://quochung.cyou/3-cach-thuc-hien-dependency-injection-di-va-van-de-voi-autowired-trong-spring/)
 - [[Phần 1] Sự phát triển của các mô hình hệ thống Backend &lpar;N-layered, DDD, Hexagon, Onion, Clean Architecture&rpar;](https://quochung.cyou/phan-1-su-phat-trien-cua-cac-mo-hinh-he-thong-backend-n-layered-ddd-hexagon-onion-clean-architecture/)
-- [Tìm hiểu Consistent hashing &lpar;Ánh xạ nhất quán&rpar; – Xử lí dữ liệu phân tán](https://quochung.cyou/tim-hieu-consistent-hashing-anh-xa-nhat-quan-xu-li-du-lieu-phan-tan/)
 <!-- BLOG-POST-LIST:END -->
 
 
