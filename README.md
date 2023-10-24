@@ -24,11 +24,11 @@ I am always seeking opportunities to learn and improve my skills and I have a de
 
 ## ⏩ &nbsp;On my Blog
 <!-- BLOG-POST-LIST:START -->
+- [[Java Memory 1] Escaping References trong Java, Call-by-value và sử dụng Defensive copying. Biến trong Java lưu thế nào](https://quochung.cyou/java-memory-1-escaping-references-trong-java-call-by-value-va-su-dung-defensive-copying-bien-trong-java-luu-the-nao/)
 - [Các cấp độ Isolation trong Database dễ hiểu](https://quochung.cyou/cac-cap-do-isolation-trong-database-de-hieu/)
 - [7 plugin cho InteliJ IDEA để tăng hiệu suất làm việc của bạn](https://quochung.cyou/7-plugin-cho-intelij-idea-de-tang-hieu-suat-lam-viec-cua-ban/)
 - [Sự ra đời của Java, các thuật ngữ JVM, JDK, JRE](https://quochung.cyou/su-ra-doi-cua-java-cac-thuat-ngu-jvm-jdk-jre/)
 - [3 cách thực hiện Dependency Injection &lpar;DI&rpar; và vấn đề với @Autowired trong Spring](https://quochung.cyou/3-cach-thuc-hien-dependency-injection-di-va-van-de-voi-autowired-trong-spring/)
-- [[Phần 1] Sự phát triển của các mô hình hệ thống Backend &lpar;N-layered, DDD, Hexagon, Onion, Clean Architecture&rpar;](https://quochung.cyou/phan-1-su-phat-trien-cua-cac-mo-hinh-he-thong-backend-n-layered-ddd-hexagon-onion-clean-architecture/)
 <!-- BLOG-POST-LIST:END -->
 
 
