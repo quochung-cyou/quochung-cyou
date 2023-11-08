@@ -24,11 +24,11 @@ I am always seeking opportunities to learn and improve my skills and I have a de
 
 ## ⏩ &nbsp;On my Blog
 <!-- BLOG-POST-LIST:START -->
+- [Same-origin policy &lpar;SOP&rpar; và Cross-Origin Re-source Sharing &lpar;CORS&rpar;](https://quochung.cyou/same-origin-policy-sop-va-cross-origin-re-source-sharing-cors/)
+- [[Java Core] B3: Cách Java quản lý dữ liệu](https://quochung.cyou/java-core-b3-cach-java-quan-ly-du-lieu/)
 - [[Java Core] B2: Class và Object &lpar;Lớp và đối tượng&rpar;](https://quochung.cyou/java-core-b2-class-va-object-lop-va-doi-tuong/)
 - [[Java Core] B1: Tại sao nên học Java, syntax cơ bản](https://quochung.cyou/java-core-b1-tai-sao-nen-hoc-java-syntax-co-ban/)
 - [[Java Memory 1] Escaping References trong Java, Call-by-value và sử dụng Defensive copying. Biến trong Java lưu thế nào](https://quochung.cyou/java-memory-1-escaping-references-trong-java-call-by-value-va-su-dung-defensive-copying-bien-trong-java-luu-the-nao/)
-- [Các cấp độ Isolation trong Database dễ hiểu](https://quochung.cyou/cac-cap-do-isolation-trong-database-de-hieu/)
-- [7 plugin cho InteliJ IDEA để tăng hiệu suất làm việc của bạn](https://quochung.cyou/7-plugin-cho-intelij-idea-de-tang-hieu-suat-lam-viec-cua-ban/)
 <!-- BLOG-POST-LIST:END -->
 
 
