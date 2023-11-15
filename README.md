@@ -24,11 +24,11 @@ I am always seeking opportunities to learn and improve my skills and I have a de
 
 ## ⏩ &nbsp;On my Blog
 <!-- BLOG-POST-LIST:START -->
+- [Chung kết ACM/ICPC PTIT 2023](https://quochung.cyou/chung-ket-acm-icpc-ptit-2023/)
 - [[Java Core] B4: Tính chất đóng gói, kế thừa và đa hình trong Java](https://quochung.cyou/java-core-b4-tinh-chat-dong-goi-ke-thua-va-da-hinh-trong-java/)
 - [Same-origin policy &lpar;SOP&rpar; và Cross-Origin Re-source Sharing &lpar;CORS&rpar;](https://quochung.cyou/same-origin-policy-sop-va-cross-origin-re-source-sharing-cors/)
 - [[Java Core] B3: Cách Java quản lý dữ liệu](https://quochung.cyou/java-core-b3-cach-java-quan-ly-du-lieu/)
 - [[Java Core] B2: Class và Object &lpar;Lớp và đối tượng&rpar;](https://quochung.cyou/java-core-b2-class-va-object-lop-va-doi-tuong/)
-- [[Java Core] B1: Tại sao nên học Java, syntax cơ bản](https://quochung.cyou/java-core-b1-tai-sao-nen-hoc-java-syntax-co-ban/)
 <!-- BLOG-POST-LIST:END -->
 
 
