@@ -3,18 +3,17 @@
 ### Hi there <a href="https://www.quochung.cyou/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 This is the place where I opensource stuff and break things :rofl: 
 
-[Technical Skills & Expertise]
-🔹 Java Development: Experience in designing and developing scalable back-end systems using Java, leveraging its powerful frameworks and libraries to deliver robust and high-performing applications.
-🔹 Competitive Programming Background: Proficient in task related to algorithm, data structure, enabling the creation of efficient and optimized software solutions.
-🔹 System Design: Experienced in designing and architecting complex systems, ensuring scalability, reliability, and maintainability.
-🔹 Microservices: Skilled in developing and deploying microservices-based architectures, enabling modular and scalable applications
-🔹 Software Development: Proficient in the full software development lifecycle, from requirement analysis and design to coding, testing, and deployment.
-🔹 SQL & Database Management: Have experience in utilizing SQL to build and optimize complex queries, while ensuring efficient data management and integrity.
+### [Technical Skills & Expertise]
+- Java Development: Experience in designing and developing scalable back-end systems using Java, leveraging its powerful frameworks and libraries to deliver robust and high-performing applications.
+- Competitive Programming Background: Proficient in task related to algorithm, data structure, enabling the creation of efficient and optimized software solutions.
+- System Design: Experienced in designing and architecting complex systems, ensuring scalability, reliability, and maintainability.
+- Microservices: Skilled in developing and deploying microservices-based architectures, enabling modular and scalable applications
+- Software Development: Proficient in the full software development lifecycle, from requirement analysis and design to coding, testing, and deployment.
+- SQL & Database Management: Have experience in utilizing SQL to build and optimize complex queries, while ensuring efficient data management and integrity.
+- Cloud Computing: Have experience in deploying and managing applications on cloud platforms such as GCP/AWS.
+- Agile Methodologies: Have experience in utilizing Agile methodologies to deliver high-quality software solutions.
+- Software Testing: Have experience in testing software solutions, using various testing techniques (e.g. unit testing, integration testing, e2e testing, etc.) to ensure the quality of software solutions.
 
-[Innovation-driven and Problem-Solving Mindset]
-🔹 Committed to exploring and implementing cutting-edge technologies to enhance productivity and streamline complex business processes.
-🔹 Thrives in dynamic environments, constantly seeking opportunities to learn and improve my skills to stay at the forefront of industry trends.
-🔹 Passionate about tackling intricate challenges head-on, with a deep love for unraveling complexities and devising elegant solutions.
 
 I am always seeking opportunities to learn and improve my skills and I have a deep love for learning new technologies and solving complex problems. 
 I am confident that my skills and passion for the industry will allow me to make a positive impact in any team.
