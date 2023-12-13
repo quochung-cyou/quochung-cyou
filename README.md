@@ -35,11 +35,11 @@ I am confident that my skills and passion for the industry will allow me to make
 
 ## ⏩ &nbsp;On my Blog
 <!-- BLOG-POST-LIST:START -->
+- [Transactional Outbox Pattern trong thiết kế Microservices](https://quochung.cyou/transactional-outbox-pattern-trong-thiet-ke-microservices/)
 - [[Java Memory 2] Cách Garbage Collector Java giải phóng bộ nhớ &lpar;Stop The World, Reference Counting, Sweep, ..&rpar;](https://quochung.cyou/java-memory-2-cach-garbage-collector-java-giai-phong-bo-nho-stop-the-world-reference-counting-sweep/)
 - [Chung kết ACM/ICPC PTIT 2023](https://quochung.cyou/chung-ket-acm-icpc-ptit-2023/)
 - [[Java Core] B4: Tính chất đóng gói, kế thừa và đa hình trong Java](https://quochung.cyou/java-core-b4-tinh-chat-dong-goi-ke-thua-va-da-hinh-trong-java/)
 - [Same-origin policy &lpar;SOP&rpar; và Cross-Origin Re-source Sharing &lpar;CORS&rpar;](https://quochung.cyou/same-origin-policy-sop-va-cross-origin-re-source-sharing-cors/)
-- [[Java Core] B3: Cách Java quản lý dữ liệu](https://quochung.cyou/java-core-b3-cach-java-quan-ly-du-lieu/)
 <!-- BLOG-POST-LIST:END -->
 
 
