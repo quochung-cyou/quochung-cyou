@@ -44,11 +44,11 @@ I am confident that my skills and passion for the industry will allow me to make
 
 ## ⏩ &nbsp;On my Blog
 <!-- BLOG-POST-LIST:START -->
+- [[Phần 1] Session Token và JWT Token, Refresh Token, khi nào quyết định sử dụng, ưu và nhược điểm](https://quochung.cyou/phan-1-session-token-va-jwt-token-refresh-token-khi-nao-quyet-dinh-su-dung-uu-va-nhuoc-diem/)
 - [Spring IOC, Dependency Injection, @Component và @Bean](https://quochung.cyou/spring-ioc-dependency-injection-component-va-bean/)
 - [Transactional Outbox Pattern trong thiết kế Microservices](https://quochung.cyou/transactional-outbox-pattern-trong-thiet-ke-microservices/)
 - [[Java Memory 2] Cách Garbage Collector Java giải phóng bộ nhớ &lpar;Stop The World, Reference Counting, Sweep, ..&rpar;](https://quochung.cyou/java-memory-2-cach-garbage-collector-java-giai-phong-bo-nho-stop-the-world-reference-counting-sweep/)
 - [Chung kết ACM/ICPC PTIT 2023](https://quochung.cyou/chung-ket-acm-icpc-ptit-2023/)
-- [[Java Core] B4: Tính chất đóng gói, kế thừa và đa hình trong Java](https://quochung.cyou/java-core-b4-tinh-chat-dong-goi-ke-thua-va-da-hinh-trong-java/)
 <!-- BLOG-POST-LIST:END -->
 
 
