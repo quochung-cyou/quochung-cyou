@@ -44,11 +44,11 @@ I am confident that my skills and passion for the industry will allow me to make
 
 ## ⏩ &nbsp;On my Blog
 <!-- BLOG-POST-LIST:START -->
+- [JPA là gì? Phân biệt và làm rõ Hibernate, Spring Data JPA, JDBC, ORM](https://quochung.cyou/jpa-la-gi-phan-biet-va-lam-ro-hibernate-spring-data-jpa-jdbc-orm/)
 - [[Phần 2] Sự phát triển của các mô hình hệ thống Backend &lpar;N-layered, DDD, Hexagon, Onion, Clean Architecture&rpar;](https://quochung.cyou/phan-2-su-phat-trien-cua-cac-mo-hinh-he-thong-backend-n-layered-ddd-hexagon-onion-clean-architecture/)
 - [[Phần 1] Session Token và JWT Token, Refresh Token, khi nào quyết định sử dụng, ưu và nhược điểm](https://quochung.cyou/phan-1-session-token-va-jwt-token-refresh-token-khi-nao-quyet-dinh-su-dung-uu-va-nhuoc-diem/)
 - [Spring IOC, Dependency Injection, @Component và @Bean](https://quochung.cyou/spring-ioc-dependency-injection-component-va-bean/)
 - [Transactional Outbox Pattern trong thiết kế Microservices](https://quochung.cyou/transactional-outbox-pattern-trong-thiet-ke-microservices/)
-- [[Java Memory 2] Cách Garbage Collector Java giải phóng bộ nhớ &lpar;Stop The World, Reference Counting, Sweep, ..&rpar;](https://quochung.cyou/java-memory-2-cach-garbage-collector-java-giai-phong-bo-nho-stop-the-world-reference-counting-sweep/)
 <!-- BLOG-POST-LIST:END -->
 
 
