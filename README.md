@@ -44,11 +44,11 @@ I am confident that my skills and passion for the industry will allow me to make
 
 ## ⏩ &nbsp;On my Blog
 <!-- BLOG-POST-LIST:START -->
+- [Chuẩn hoá Database vs Đảo chuẩn hoá Database &lpar;Database Normalization vs. Denormalization&rpar;, case study của Instagram](https://quochung.cyou/chuan-hoa-database-vs-dao-chuan-hoa-database-database-normalization-vs-denormalization-case-study-cua-instagram/)
 - [[Phần 2] Session Token và JWT Token, Refresh Token, khi nào quyết định sử dụng, ưu và nhược điểm](https://quochung.cyou/phan-2-session-token-va-jwt-token-refresh-token-khi-nao-quyet-dinh-su-dung-uu-va-nhuoc-diem/)
 - [JPA là gì? Phân biệt và làm rõ Hibernate, Spring Data JPA, JDBC, ORM](https://quochung.cyou/jpa-la-gi-phan-biet-va-lam-ro-hibernate-spring-data-jpa-jdbc-orm/)
 - [[Phần 2] Sự phát triển của các mô hình hệ thống Backend &lpar;N-layered, DDD, Hexagon, Onion, Clean Architecture&rpar;](https://quochung.cyou/phan-2-su-phat-trien-cua-cac-mo-hinh-he-thong-backend-n-layered-ddd-hexagon-onion-clean-architecture/)
 - [[Phần 1] Session Token và JWT Token, Refresh Token, khi nào quyết định sử dụng, ưu và nhược điểm](https://quochung.cyou/phan-1-session-token-va-jwt-token-refresh-token-khi-nao-quyet-dinh-su-dung-uu-va-nhuoc-diem/)
-- [Spring IOC, Dependency Injection, @Component và @Bean](https://quochung.cyou/spring-ioc-dependency-injection-component-va-bean/)
 <!-- BLOG-POST-LIST:END -->
 
 
