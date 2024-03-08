@@ -19,11 +19,11 @@ This is the place where I opensource stuff and break things :rofl:
 
 ## ⏩ &nbsp;On my Blog
 <!-- BLOG-POST-LIST:START -->
+- [[Java Core] B7: Exception trong Java](https://quochung.cyou/java-core-b7-exception-trong-java/)
+- [[Java Core] B6: Design Pattern Iterator. Iterable và Collection trong Java](https://quochung.cyou/java-core-b6-design-pattern-iterator-iterable-va-collection-trong-java/)
+- [[Java Core] B5: Tính chất trừu tượng, Interface và Abstract Class trong Java](https://quochung.cyou/java-core-b5-tinh-chat-truu-tuong-interface-va-abstract-class-trong-java/)
+- [Tìm hiểu về session fixation – Vấn đề bảo mật trong authentication bằng cookie](https://quochung.cyou/tim-hieu-ve-session-fixation-van-de-bao-mat-trong-authentication-bang-cookie/)
 - [Chuẩn hoá Database vs Đảo chuẩn hoá Database &lpar;Database Normalization vs. Denormalization&rpar;, case study của Instagram](https://quochung.cyou/chuan-hoa-database-vs-dao-chuan-hoa-database-database-normalization-vs-denormalization-case-study-cua-instagram/)
-- [[Phần 2] Session Token và JWT Token, Refresh Token, khi nào quyết định sử dụng, ưu và nhược điểm](https://quochung.cyou/phan-2-session-token-va-jwt-token-refresh-token-khi-nao-quyet-dinh-su-dung-uu-va-nhuoc-diem/)
-- [JPA là gì? Phân biệt và làm rõ Hibernate, Spring Data JPA, JDBC, ORM](https://quochung.cyou/jpa-la-gi-phan-biet-va-lam-ro-hibernate-spring-data-jpa-jdbc-orm/)
-- [[Phần 2] Sự phát triển của các mô hình hệ thống Backend &lpar;N-layered, DDD, Hexagon, Onion, Clean Architecture&rpar;](https://quochung.cyou/phan-2-su-phat-trien-cua-cac-mo-hinh-he-thong-backend-n-layered-ddd-hexagon-onion-clean-architecture/)
-- [[Phần 1] Session Token và JWT Token, Refresh Token, khi nào quyết định sử dụng, ưu và nhược điểm](https://quochung.cyou/phan-1-session-token-va-jwt-token-refresh-token-khi-nao-quyet-dinh-su-dung-uu-va-nhuoc-diem/)
 <!-- BLOG-POST-LIST:END -->
 
 
