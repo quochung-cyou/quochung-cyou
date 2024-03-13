@@ -19,11 +19,11 @@ This is the place where I opensource stuff and break things :rofl:
 
 ## ⏩ &nbsp;On my Blog
 <!-- BLOG-POST-LIST:START -->
+- [[Java Core] B8: File, sơ lược về test trong Java](https://quochung.cyou/java-core-b8-file-so-luoc-ve-test-trong-java/)
 - [[Java Core] B7: Exception trong Java](https://quochung.cyou/java-core-b7-exception-trong-java/)
 - [[Java Core] B6: Design Pattern Iterator. Iterable và Collection trong Java](https://quochung.cyou/java-core-b6-design-pattern-iterator-iterable-va-collection-trong-java/)
 - [[Java Core] B5: Tính chất trừu tượng, Interface và Abstract Class trong Java](https://quochung.cyou/java-core-b5-tinh-chat-truu-tuong-interface-va-abstract-class-trong-java/)
 - [Tìm hiểu về session fixation – Vấn đề bảo mật trong authentication bằng cookie](https://quochung.cyou/tim-hieu-ve-session-fixation-van-de-bao-mat-trong-authentication-bang-cookie/)
-- [Chuẩn hoá Database vs Đảo chuẩn hoá Database &lpar;Database Normalization vs. Denormalization&rpar;, case study của Instagram](https://quochung.cyou/chuan-hoa-database-vs-dao-chuan-hoa-database-database-normalization-vs-denormalization-case-study-cua-instagram/)
 <!-- BLOG-POST-LIST:END -->
 
 
