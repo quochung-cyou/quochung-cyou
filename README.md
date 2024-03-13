@@ -19,11 +19,11 @@ This is the place where I opensource stuff and break things :rofl:
 
 ## ⏩ &nbsp;On my Blog
 <!-- BLOG-POST-LIST:START -->
+- [[Database Index] P1: Cơ bản về index database trong MySQL](https://quochung.cyou/database-index-p1-co-ban-ve-index-database-trong-mysql/)
 - [[Java Core] B8: File, sơ lược về test trong Java](https://quochung.cyou/java-core-b8-file-so-luoc-ve-test-trong-java/)
 - [[Java Core] B7: Exception trong Java](https://quochung.cyou/java-core-b7-exception-trong-java/)
 - [[Java Core] B6: Design Pattern Iterator. Iterable và Collection trong Java](https://quochung.cyou/java-core-b6-design-pattern-iterator-iterable-va-collection-trong-java/)
 - [[Java Core] B5: Tính chất trừu tượng, Interface và Abstract Class trong Java](https://quochung.cyou/java-core-b5-tinh-chat-truu-tuong-interface-va-abstract-class-trong-java/)
-- [Tìm hiểu về session fixation – Vấn đề bảo mật trong authentication bằng cookie](https://quochung.cyou/tim-hieu-ve-session-fixation-van-de-bao-mat-trong-authentication-bang-cookie/)
 <!-- BLOG-POST-LIST:END -->
 
 
