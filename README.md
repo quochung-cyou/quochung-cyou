@@ -19,11 +19,11 @@ This is the place where I opensource stuff and break things :rofl:
 
 ## ⏩ &nbsp;On my Blog
 <!-- BLOG-POST-LIST:START -->
+- [Camunda 7 | Get history data of form in user task](https://quochung.cyou/camunda-7-get-history-data-of-form-in-user-task/)
+- [Integration Testing Camunda 7 | No startFormHandler defined in process](https://quochung.cyou/integration-testing-camunda-7-no-startformhandler-defined-in-process/)
 - [[LibGDX | Java 2D Game] Phần 1: Cài đặt môi trường](https://quochung.cyou/libgdx-java-2d-game-phan-1-cai-dat-moi-truong/)
 - [Triển khai Cursor Pagination trong Java Spring JPA/Hibernate](https://quochung.cyou/trien-khai-cursor-pagination-trong-java-spring-jpa-hibernate/)
 - [[BlockChain] P2: Chainlink, một giải pháp khắc phục “oracle problem”, ví dụ thực tế](https://quochung.cyou/blockchain-p2-chainlink-mot-giai-phap-khac-phuc-oracle-problem-vi-du-thuc-te/)
-- [[BlockChain] P1: Tìm hiểu cơ bản về Blockchain, ví dụ thực tiễn](https://quochung.cyou/blockchain-p1-tim-hieu-co-ban-ve-blockchain-vi-du-thuc-tien/)
-- [[Database Index] P1: Cơ bản về index database trong MySQL](https://quochung.cyou/database-index-p1-co-ban-ve-index-database-trong-mysql/)
 <!-- BLOG-POST-LIST:END -->
 
 
