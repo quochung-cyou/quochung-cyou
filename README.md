@@ -19,11 +19,11 @@ This is the place where I opensource stuff and break things :rofl:
 
 ## ⏩ &nbsp;On my Blog
 <!-- BLOG-POST-LIST:START -->
+- [Save Google OAuth2 token in database  with Spring Boot](https://quochung.cyou/save-google-oauth2-token-in-database-with-spring-boot/)
 - [Google API – Getting User ID for Google Chat from Google People API](https://quochung.cyou/google-api-getting-user-id-for-google-chat-from-google-people-api/)
 - [Dynamic OAuth2 Client for Spring Boot](https://quochung.cyou/dynamic-oauth2-client-for-spring-boot/)
 - [Register a custom function in Camunda 7 with Spring Boot](https://quochung.cyou/register-a-custom-function-in-camunda-7-with-spring-boot/)
 - [Comparison of Open-Source Status Page Solutions](https://quochung.cyou/comparison-of-open-source-status-page-solutions/)
-- [Camunda 7 | Get history data of form in user task](https://quochung.cyou/camunda-7-get-history-data-of-form-in-user-task/)
 <!-- BLOG-POST-LIST:END -->
 
 
