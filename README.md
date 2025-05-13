@@ -19,11 +19,11 @@ This is the place where I opensource stuff and break things :rofl:
 
 ## ⏩ &nbsp;On my Blog
 <!-- BLOG-POST-LIST:START -->
+- [Setting Up n8n SSO with Self-Hosted Keycloak:](https://quochung.cyou/setting-up-n8n-sso-with-self-hosted-keycloak/)
 - [Tìm hiểu lí do cần database, datalake, data warehouse?](https://quochung.cyou/tim-hieu-li-do-can-database-datalake-data-warehouse/)
 - [Tối ưu SEO website CSR &lpar;React, Angular&rpar; bằng kĩ thuật PreCrawl](https://quochung.cyou/toi-uu-seo-website-csr-react-angular-bang-ki-thuat-precrawl/)
 - [Save Google OAuth2 token in database  with Spring Boot](https://quochung.cyou/save-google-oauth2-token-in-database-with-spring-boot/)
 - [Google API – Getting User ID for Google Chat from Google People API](https://quochung.cyou/google-api-getting-user-id-for-google-chat-from-google-people-api/)
-- [Dynamic OAuth2 Client for Spring Boot](https://quochung.cyou/dynamic-oauth2-client-for-spring-boot/)
 <!-- BLOG-POST-LIST:END -->
 
 
