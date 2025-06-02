@@ -19,11 +19,11 @@ This is the place where I opensource stuff and break things :rofl:
 
 ## ⏩ &nbsp;On my Blog
 <!-- BLOG-POST-LIST:START -->
+- [[SWE học A.I] Phần 2: Một số khái niệm toán học](https://quochung.cyou/swe-hoc-a-i-phan-2-mot-so-khai-niem-toan-hoc/)
 - [[SWE học A.I] Phần 1: Machine Learning, Supervised Learning, Unsupervised Learning và Reinforment Learning](https://quochung.cyou/swe-hoc-a-i-phan-1-machine-learning-supervised-learning-unsupervised-learning-va-reinforment-learning/)
 - [Setting Up n8n SSO with Self-Hosted Keycloak:](https://quochung.cyou/setting-up-n8n-sso-with-self-hosted-keycloak/)
 - [Tìm hiểu lí do cần database, datalake, data warehouse?](https://quochung.cyou/tim-hieu-li-do-can-database-datalake-data-warehouse/)
 - [Tối ưu SEO website CSR &lpar;React, Angular&rpar; bằng kĩ thuật PreCrawl](https://quochung.cyou/toi-uu-seo-website-csr-react-angular-bang-ki-thuat-precrawl/)
-- [Save Google OAuth2 token in database  with Spring Boot](https://quochung.cyou/save-google-oauth2-token-in-database-with-spring-boot/)
 <!-- BLOG-POST-LIST:END -->
 
 
