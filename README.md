@@ -19,11 +19,11 @@ This is the place where I opensource stuff and break things :rofl:
 
 ## ⏩ &nbsp;On my Blog
 <!-- BLOG-POST-LIST:START -->
+- [[SWE học A.I] Phần 4: Machine Learning – Train &amp; Test &amp; Gradient Descent](https://quochung.cyou/swe-hoc-a-i-phan-4-machine-learning-train-test-gradient-descent/)
 - [[SWE học A.I] Phần 3: Machine Learning Classification](https://quochung.cyou/swe-hoc-a-i-phan-3-machine-learning-classification/)
 - [[SWE học A.I] Phần 2: Một số khái niệm toán học](https://quochung.cyou/swe-hoc-a-i-phan-2-mot-so-khai-niem-toan-hoc/)
 - [[SWE học A.I] Phần 1: Machine Learning, Supervised Learning, Unsupervised Learning và Reinforment Learning](https://quochung.cyou/swe-hoc-a-i-phan-1-machine-learning-supervised-learning-unsupervised-learning-va-reinforment-learning/)
 - [Setting Up n8n SSO with Self-Hosted Keycloak:](https://quochung.cyou/setting-up-n8n-sso-with-self-hosted-keycloak/)
-- [Tìm hiểu lí do cần database, datalake, data warehouse?](https://quochung.cyou/tim-hieu-li-do-can-database-datalake-data-warehouse/)
 <!-- BLOG-POST-LIST:END -->
 
 
