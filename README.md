@@ -19,11 +19,11 @@ This is the place where I opensource stuff and break things :rofl:
 
 ## ⏩ &nbsp;On my Blog
 <!-- BLOG-POST-LIST:START -->
+- [[SWE học A.I] Phần 7: Data Prepare](https://quochung.cyou/swe-hoc-a-i-phan-7-data-prepare/)
 - [[SWE học A.I] Phần 6: Overfit &amp; Underfit, Tradeoff của Variance/Bias](https://quochung.cyou/swe-hoc-a-i-phan-6-overfit-underfit-tradeoff-cua-variance-bias/)
 - [[SWE học A.I] Phần 5: Machine Learning – Train &amp; Test &amp; Gradient Descent](https://quochung.cyou/swe-hoc-a-i-phan-5-machine-learning-train-test-gradient-descent/)
 - [[SWE học A.I] Phần 4: Machine Learning Classification](https://quochung.cyou/swe-hoc-a-i-phan-4-machine-learning-classification/)
 - [[SWE học A.I] Phần 3: Một số khái niệm suất thống kê](https://quochung.cyou/swe-hoc-a-i-phan-3-xac-suat-thong-ke/)
-- [[SWE học A.I] Phần 2: Một số khái niệm toán học](https://quochung.cyou/swe-hoc-a-i-phan-2-mot-so-khai-niem-toan-hoc/)
 <!-- BLOG-POST-LIST:END -->
 
 
