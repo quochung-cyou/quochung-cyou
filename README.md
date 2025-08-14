@@ -6,7 +6,6 @@ This is the place where I opensource stuff and break things :rofl:
 ## Info
 - 📫 &nbsp;How to reach me: nguyenquochung.workvn@gmail.com
 - 🔗 &nbsp;Check out my random blog: https://quochung.cyou
-- 🖥️ &nbsp;Competitive Programming - ICPC: https://icpc.global/ICPCID/XP8AC1MI6YF3
 ---
 
 ## 🔗 &nbsp;**Connect with me**
