@@ -18,11 +18,11 @@ This is the place where I opensource stuff and break things :rofl:
 
 ## ⏩ &nbsp;On my Blog
 <!-- BLOG-POST-LIST:START -->
+- [[HTTP/2] Phần 1: Tìm hiểu về toàn bộ về hành trình đi lên HTTP/2](https://quochung.cyou/http-2-phan-1-tim-hieu-ve-toan-bo-ve-hanh-trinh-di-len-http-2/)
 - [[SWE học A.I] Phần 8: Model Training &amp; Evaluation](https://quochung.cyou/swe-hoc-a-i-phan-5-machine-learning-train-test-gradient-descent/)
 - [[SWE học A.I] Phần 7: Overfit &amp; Underfit, Tradeoff của Variance/Bias](https://quochung.cyou/swe-hoc-a-i-phan-6-overfit-underfit-tradeoff-cua-variance-bias/)
 - [[SWE học A.I] Phần 6: Machine Learning Classification](https://quochung.cyou/swe-hoc-a-i-phan-4-machine-learning-classification/)
 - [[SWE học A.I] Phần 4: Data Prepare &amp; Cleaning](https://quochung.cyou/swe-hoc-a-i-phan-7-data-prepare/)
-- [[SWE học A.I] Phần 3: Một số khái niệm suất thống kê](https://quochung.cyou/swe-hoc-a-i-phan-3-xac-suat-thong-ke/)
 <!-- BLOG-POST-LIST:END -->
 
 
