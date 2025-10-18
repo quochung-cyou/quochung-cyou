@@ -18,11 +18,11 @@ This is the place where I opensource stuff and break things :rofl:
 
 ## ⏩ &nbsp;On my Blog
 <!-- BLOG-POST-LIST:START -->
+- [Kaggle Multi Local Module Project Python](https://quochung.cyou/multi-local-module-project-python/)
 - [[SWE học A.I] Tìm hiểu về Attention và Transformer](https://quochung.cyou/swe-hoc-a-i-tim-hieu-ve-attention-va-transformer/)
 - [[HTTP/2] Phần 2: Tìm hiểu thêm Server Push](https://quochung.cyou/http-2-phan-2-tim-hieu-them-server-push/)
 - [[HTTP/2] Phần 1: Tìm hiểu hành trình đi lên HTTP/2](https://quochung.cyou/http-2-phan-1-tim-hieu-ve-toan-bo-ve-hanh-trinh-di-len-http-2/)
 - [[SWE học A.I] Phần 8: Model Training &amp; Evaluation](https://quochung.cyou/swe-hoc-a-i-phan-5-machine-learning-train-test-gradient-descent/)
-- [[SWE học A.I] Phần 7: Overfit &amp; Underfit, Tradeoff của Variance/Bias](https://quochung.cyou/swe-hoc-a-i-phan-6-overfit-underfit-tradeoff-cua-variance-bias/)
 <!-- BLOG-POST-LIST:END -->
 
 
