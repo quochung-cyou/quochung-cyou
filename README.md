@@ -18,11 +18,11 @@ This is the place where I opensource stuff and break things :rofl:
 
 ## ⏩ &nbsp;On my Blog
 <!-- BLOG-POST-LIST:START -->
+- [The easy way install and compile Cobol in Windows](https://quochung.cyou/the-easy-way-install-and-compile-cobol-in-windows/)
 - [A simple extension that fixes my browser chaos](https://quochung.cyou/a-simple-extension-that-fixes-my-browser-chaos/)
 - [Kaggle Multi Local Module Project Python](https://quochung.cyou/multi-local-module-project-python/)
 - [[SWE học A.I] Tìm hiểu về Attention và Transformer](https://quochung.cyou/swe-hoc-a-i-tim-hieu-ve-attention-va-transformer/)
 - [[HTTP/2] Phần 2: Tìm hiểu thêm Server Push](https://quochung.cyou/http-2-phan-2-tim-hieu-them-server-push/)
-- [[HTTP/2] Phần 1: Tìm hiểu hành trình đi lên HTTP/2](https://quochung.cyou/http-2-phan-1-tim-hieu-ve-toan-bo-ve-hanh-trinh-di-len-http-2/)
 <!-- BLOG-POST-LIST:END -->
 
 
