@@ -18,11 +18,11 @@ This is the place where I opensource stuff and break things :rofl:
 
 ## ⏩ &nbsp;On my Blog
 <!-- BLOG-POST-LIST:START -->
+- [[A.I System Programming] B5: Chương trình Cuda C](https://quochung.cyou/a-i-system-programming-b5-chuong-trinh-cuda-c/)
 - [[A.I System Programming] B4: Motivation của GPU](https://quochung.cyou/a-i-system-programming-b4-motivation-cua-gpu/)
 - [[A.I System Programming] B3: Lịch sử của máy tính](https://quochung.cyou/a-i-system-programming-b3-lich-su-cua-may-tinh/)
 - [[A.I System Programming] B2: Tìm hiểu C Memory/Pointer](https://quochung.cyou/gpu-b2-tim-hieu-c-memory-pointer/)
 - [[A.I System Programming] B1: Tìm hiểu lại C Core](https://quochung.cyou/gpu-b1-tim-hieu-lai-c-core/)
-- [Tìm hiểu Convex function](https://quochung.cyou/tim-hieu-convex-function/)
 <!-- BLOG-POST-LIST:END -->
 
 
