@@ -18,11 +18,11 @@ This is the place where I opensource stuff and break things :rofl:
 
 ## ⏩ &nbsp;On my Blog
 <!-- BLOG-POST-LIST:START -->
+- [Tìm hiểu về Speculative Decoding, phương pháp tăng tốc LLM gấp 3 lần](https://quochung.cyou/tim-hieu-ve-speculative-decoding/)
 - [TAHMO Incoming Solar Radiation Prediction](https://quochung.cyou/tahmo-incoming-solar-radiation-prediction/)
 - [MissionSim](https://quochung.cyou/missionsim/)
 - [WebAssembly Edge Model for learning English, built for low-end device](https://quochung.cyou/webassembly-edge-model-for-learning-english-built-for-low-end-device/)
 - [GOOSE 2D Fine-Grained Semantic Segmentation / ICRA 2026](https://quochung.cyou/goose-2d-fine-grained-semantic-segmentation-icra-2026/)
-- [[A.I System Programming] B6: Cài đặt các công cụ và nền tảng cho CUDA Window](https://quochung.cyou/a-i-system-programming-b6-cai-dat-cac-cong-cu-va-nen-tang-cho-cuda-window/)
 <!-- BLOG-POST-LIST:END -->
 
 
